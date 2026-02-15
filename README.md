@@ -1,8 +1,8 @@
 <div align="center">
 
-# ☀️ Solar
+# Solar
 
-### Backends • Gameserver • Launcher
+### Backends, Gameserver, Launcher
 
 </div>
 
